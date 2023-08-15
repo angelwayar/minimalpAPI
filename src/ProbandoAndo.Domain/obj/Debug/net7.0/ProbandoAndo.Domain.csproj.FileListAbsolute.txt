@@ -1,0 +1,11 @@
+C:\projects\ProbandoAndo\src\ProbandoAndo.Domain\bin\Debug\net7.0\ProbandoAndo.Domain.deps.json
+C:\projects\ProbandoAndo\src\ProbandoAndo.Domain\bin\Debug\net7.0\ProbandoAndo.Domain.dll
+C:\projects\ProbandoAndo\src\ProbandoAndo.Domain\bin\Debug\net7.0\ProbandoAndo.Domain.pdb
+C:\projects\ProbandoAndo\src\ProbandoAndo.Domain\obj\Debug\net7.0\ProbandoAndo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ProbandoAndo\src\ProbandoAndo.Domain\obj\Debug\net7.0\ProbandoAndo.Domain.AssemblyInfoInputs.cache
+C:\projects\ProbandoAndo\src\ProbandoAndo.Domain\obj\Debug\net7.0\ProbandoAndo.Domain.AssemblyInfo.cs
+C:\projects\ProbandoAndo\src\ProbandoAndo.Domain\obj\Debug\net7.0\ProbandoAndo.Domain.csproj.CoreCompileInputs.cache
+C:\projects\ProbandoAndo\src\ProbandoAndo.Domain\obj\Debug\net7.0\ProbandoAndo.Domain.dll
+C:\projects\ProbandoAndo\src\ProbandoAndo.Domain\obj\Debug\net7.0\refint\ProbandoAndo.Domain.dll
+C:\projects\ProbandoAndo\src\ProbandoAndo.Domain\obj\Debug\net7.0\ProbandoAndo.Domain.pdb
+C:\projects\ProbandoAndo\src\ProbandoAndo.Domain\obj\Debug\net7.0\ref\ProbandoAndo.Domain.dll

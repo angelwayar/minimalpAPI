@@ -1,0 +1,17 @@
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\bin\Debug\net7.0\ProbandoAndo.Infrastructure.deps.json
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\bin\Debug\net7.0\ProbandoAndo.Infrastructure.dll
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\bin\Debug\net7.0\ProbandoAndo.Infrastructure.pdb
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\bin\Debug\net7.0\ProbandoAndo.Domain.dll
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\bin\Debug\net7.0\ProbandoAndo.Domain.pdb
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\obj\Debug\net7.0\ProbandoAndo.Infrastructure.csproj.AssemblyReference.cache
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\obj\Debug\net7.0\ProbandoAndo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\obj\Debug\net7.0\ProbandoAndo.Infrastructure.AssemblyInfoInputs.cache
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\obj\Debug\net7.0\ProbandoAndo.Infrastructure.AssemblyInfo.cs
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\obj\Debug\net7.0\ProbandoAndo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\obj\Debug\net7.0\ProbandoAndo.Infrastructure.csproj.CopyComplete
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\obj\Debug\net7.0\ProbandoAndo.Infrastructure.dll
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\obj\Debug\net7.0\refint\ProbandoAndo.Infrastructure.dll
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\obj\Debug\net7.0\ProbandoAndo.Infrastructure.pdb
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\obj\Debug\net7.0\ref\ProbandoAndo.Infrastructure.dll
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\bin\Debug\net7.0\ProbandoAndo.Infrastructure.runtimeconfig.json
+C:\projects\ProbandoAndo\src\ProbandoAndo.Infrastructure\obj\Debug\net7.0\ProbandoAndo.Infrastructure.genruntimeconfig.cache
